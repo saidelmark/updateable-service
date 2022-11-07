@@ -5,5 +5,5 @@
   ],
   "bumpVersion": "patch",
   "enabledManagers": ["helmv3"],
-  "includePaths": ["some/nested/location/update"]
+  "includePaths": ["some/nested/location/update/**"]
 }
